@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.voidnode</groupId>
 	<artifactId>definitelyTypedMavenized</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>DefinitelyTyped Mavenized</name>
 	<description>Provides Maven artifacts of the Typescript definitions in the DefinitelyTyped repository.</description>
 
